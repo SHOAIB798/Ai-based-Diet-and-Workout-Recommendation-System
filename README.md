@@ -1,1 +1,5 @@
 # Ai-based-Diet-and-Workout-Recommendation-System
+The AI-Based Diet and Health Recommendation System is an intelligent web application designed to provide personalized diet and workout plans based on individual user profiles. By leveraging advanced AI models, the system analyzes user inputs such as age, gender, weight, height, region, health goals, and dietary preferences to generate customized health suggestions. Whether you're aiming to lose weight, gain muscle, or maintain a balanced lifestyle, this tool offers smart recommendations to help you stay healthy and fit.
+
+This system uses the Google Gemini Pro API to deliver accurate, AI-driven recommendations tailored to the user’s specific needs. It combines nutritional data, fitness insights, and smart algorithms to guide users in achieving their health and fitness goals. Whether the objective is to lose weight, gain muscle, or maintain a healthy lifestyle, the system offers actionable diet plans, calorie analysis, workout routines, and health tips—all through a simple and interactive interface built with Streamlit.
+
